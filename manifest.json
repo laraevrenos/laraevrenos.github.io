@@ -1,23 +1,13 @@
 {
-    "name": "flutter_portfolio",
-    "short_name": "flutter_portfolio",
-    "start_url": ".",
-    "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "Lara Evrenos Personal Website",
-    "orientation": "portrait-primary",
-    "prefer_related_applications": false,
-    "icons": [
-        {
-            "src": "icons/Icon-192.png",
-            "sizes": "192x192",
-            "type": "image/png"
-        },
-        {
-            "src": "icons/Icon-512.png",
-            "sizes": "512x512",
-            "type": "image/png"
-        }
-    ]
+  "name": "Lara Evrenos — Technical Recruiter",
+  "short_name": "Lara Evrenos",
+  "description": "Senior Technical Recruiter & HR Business Partner in Berlin — Germany, Türkiye, EU.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#FAFAF8",
+  "theme_color": "#7A1A1A",
+  "icons": [
+    { "src": "/icons/Icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icons/Icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
 }
